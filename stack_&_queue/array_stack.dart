@@ -2,7 +2,7 @@ void main() {
   Stack sk = Stack();
   sk.push(3);
   sk.push(45);
-  sk.push(30);
+  sk.push(40);
   sk.push(10);
 
   print("Stack elements :");
