@@ -28,5 +28,5 @@ List<int> merge(List<int> left, List<int> right) {
 }
 
 void main() {
-  print(mergeSort([41, 3, 62, 38, 47, 7, 7, 21]));
+  print(mergeSort([41, 3, 62, 38, 440, 7, 7, 21]));
 }
